@@ -1,0 +1,6 @@
+{
+  "name": "eggsgd.signals",
+  "displayName": "eGGs.gd Signals",
+  "description": "Package provides simple signals system",
+  "version": "0.0.1"
+}
